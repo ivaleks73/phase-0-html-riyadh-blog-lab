@@ -16,7 +16,7 @@ IMAGE 1 ALT TEXT
 
 SMALLER SUB HEAD
 
-`Travel`
+`travel`
 
 PARAGRAPH 1
 
